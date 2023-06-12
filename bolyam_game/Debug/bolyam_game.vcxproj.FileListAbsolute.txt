@@ -1,0 +1,3 @@
+C:\Users\alanb\source\repos\bolyam_game\bolyam_game\Debug\bolyam_game.vcxproj.AssemblyReference.cache
+C:\Users\alanb\source\repos\bolyam_game\bolyam_game\Debug\bolyamgame.MyForm.resources
+C:\Users\alanb\source\repos\bolyam_game\bolyam_game\Debug\bolyam_game.vcxproj.GenerateResource.cache
