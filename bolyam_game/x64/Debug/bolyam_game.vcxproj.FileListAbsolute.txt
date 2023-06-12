@@ -1,0 +1,4 @@
+C:\Users\Maguu\OneDrive\Рабочий стол\game\bolyam_game\x64\Debug\bolyam_game.vcxproj.AssemblyReference.cache
+C:\Users\Maguu\OneDrive\Рабочий стол\game\bolyam_game\x64\Debug\bolyam_game.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Maguu\OneDrive\Рабочий стол\game\bolyam_game\x64\Debug\bolyamgame.MyForm.resources
+C:\Users\Maguu\OneDrive\Рабочий стол\game\bolyam_game\x64\Debug\bolyam_game.vcxproj.GenerateResource.cache
